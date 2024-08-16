@@ -1,0 +1,1 @@
+There isn't really much to this. The program you will be viewing is a randomized password generator made using Python. The user is asked to input values for how many letter, numbers, and symbols they want in their password and once the program runs, a completely random password will be outputted.
